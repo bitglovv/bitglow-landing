@@ -1,1 +1,1 @@
-# bitglow-landing
+.
